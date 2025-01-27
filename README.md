@@ -157,3 +157,9 @@ git push -u origin main
 git push -u origin main
 ```
 Загружает данные с удалённого репозитория на локальный.
+
+## Котик:
+![cat](cat.jpg)
+
+## Ссылка:
+[TG](https://t.me/corka_a)
