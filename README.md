@@ -101,7 +101,7 @@ git show --pretty=fuller
 ## 6. Ветки
 <u>**Переименование ветки:**</u>
 ```
-git branch _M main
+git branch -M main
 ```
 
 ## 7. Конфигурация
